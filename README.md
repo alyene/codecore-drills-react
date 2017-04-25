@@ -19,3 +19,40 @@ of them are included in this repository.
 - Other - custom written router to switch between components at the app index
 
 
+## Running the Project
+After cloning the repo you must first start the Node server, and then start the React client.
+
+## Start Node Server
+In Terminal, navigate to
+```
+./node/
+```
+and run :
+```
+$ yarn install
+```
+```
+$ yarn start
+```
+
+## Start React Client
+In a new Terminal window or tab, navigate to
+```
+./react/client/
+```
+and run :
+```
+$ yarn install
+```
+```
+$ yarn start
+```
+
+React should automatically open up a window in your browser and navigate to 
+```
+localhost:3006
+```
+if it has started. You can also navigate there manually in any web browser.
+
+Happy Coding!
+
