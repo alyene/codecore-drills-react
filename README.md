@@ -16,6 +16,7 @@ of them are included in this repository.
 
 ### Frontend
 - React.js - Facebook's reactive UI library
+- React Bootstrap - React component library based on Bootstrap v3 
 - Other - custom written router to switch between components at the app index
 
 
